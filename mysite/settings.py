@@ -120,3 +120,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 ALLOWED_HOSTS = ['*']
 X_FRAME_OPTIONS = '*'
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
